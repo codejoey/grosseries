@@ -1,5 +1,14 @@
 ![Grosseries](grosseries.png)
 
+Joey's contribution: Learnt Unity overnight and drove my Mac Air fan speed to the limit. Worked on Mac Mini, Ubuntu, and my Mac Air to attempt increasing project importing speed.
+Worked on Oculus Quest integration. VR grabbing, motion, and interactions. 
+Pitch and User Stories. 
+Fully came up with the solution idea to educate the public on their buying choice impact on climate change via VR.
+Wrote devpost submission inspiration.
+Networked with mentors and organisers.
+Led team, project management, miro/Kanban.
+Found the models and asset packs required. Bought a $30 asset pack. Wrote out the features to create (item/environment change pair)
+
 ### Note: the pitch video with demo show a viewpoint far from the lake, to see changes that occur to the lake, check out the Project Media photos.
 
 ## Try it out yourself! 
